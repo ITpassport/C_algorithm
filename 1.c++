@@ -1,3 +1,4 @@
+//２進数を１０進数に変換するプログラム
 #include <iostream>
 #include <string>
 using namespace std;
